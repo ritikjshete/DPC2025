@@ -13,4 +13,4 @@ def sortlist(a):
 
     return zero + one + two
 
-print(sortlist([0, 1, 2, 1, 0, 2, 1, 0]))
+print(sortlist([0, 1, 2, 1, 0, 2, 1, 0])) 
