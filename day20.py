@@ -8,7 +8,7 @@ def insert_sorted(stack, element):
     insert_sorted(stack, element)
     stack.append(top)
 
-
+ 
 def sort_stack(stack):
     if not stack:
         return
