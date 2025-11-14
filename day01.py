@@ -1,7 +1,7 @@
 def sortlist(a):
     if len(a) == 0:
         return []
-    
+     
     zero, one, two = [], [], []
     for i in a:
         if i == 0:
