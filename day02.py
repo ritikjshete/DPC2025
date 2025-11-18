@@ -5,7 +5,7 @@ def MissingNum(a):
     while j < len(a) and i == a[j]:
         i += 1
         j += 1
-
+ 
     return i
 
 print('no missing is ',MissingNum([1, 2, 3, 4]))
