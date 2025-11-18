@@ -3,7 +3,7 @@ def sortlist(a):
         return []
      
     zero, one, two = [], [], []
-    for i in a:
+    for i in a: 
         if i == 0:
             zero.append(i)
         elif i == 1:
