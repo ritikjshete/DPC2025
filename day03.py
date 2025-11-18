@@ -9,7 +9,7 @@ def dubNum(a):
 
         if count>=2:
             break
-        
+          
     return out
   
 print('no Dublicate is ',dubNum( [1, 4, 4, 2, 3]))
