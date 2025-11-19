@@ -3,7 +3,7 @@ def leader(a):
     led = []
     
     for i in range(n):
-        temp = True
+        temp = True 
         for j in range(i + 1, n):
             if a[j] > a[i]:
                 temp = False
