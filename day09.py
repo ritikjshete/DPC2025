@@ -1,7 +1,7 @@
 def longestCommonPrefix(strs):
     if not strs:
         return ""
-
+ 
     for i in range(len(strs[0])):
         char = strs[0][i]
  
