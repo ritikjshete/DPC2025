@@ -7,5 +7,5 @@ def MissingNum(a):
         j += 1
  
     return i
-
+ 
 print('no missing is ',MissingNum([1, 2, 3, 4]))
