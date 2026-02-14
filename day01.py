@@ -4,7 +4,7 @@ def sortlist(a):
      
     zero, one, two = [], [], []
     for i in a: 
-        if i == 0:
+        if i == 0: 
             zero.append(i)
         elif i == 1:
             one.append(i)
