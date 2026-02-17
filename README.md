@@ -6,7 +6,7 @@
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=600&lines=Cloud+Native+Developer+☁️;DevOps+Engineer+⚙️;Full+Stack+Creator+💻;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
-</a>
+</a> 
 
 <br/>
 
